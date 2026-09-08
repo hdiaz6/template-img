@@ -1,0 +1,4 @@
+.graphifyignore
+.graphify/.graphify_detect.json
+.graphify/manifest.json
+.graphify/scope.json
